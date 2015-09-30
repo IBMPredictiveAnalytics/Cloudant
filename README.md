@@ -25,9 +25,10 @@ Installation
 R Packages used
 ----
 The R packages will be installed the first time the node is used as long as an Internet connection is available.
-- [plyr][4]
-- [R4CouchDB][9]
-- [RCurl][10]
+-  [plyr][4]
+-  [R4CouchDB][9]
+-  [RCurl][10]
+
 ---
 License
 ----
