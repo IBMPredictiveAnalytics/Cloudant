@@ -44,7 +44,7 @@ Contributors
 
 
 [1]: http://www.apache.org/licenses/LICENSE-2.0.html
-[3]: https://github.com/IBMPredictiveAnalytics/Cloudant/tree/master/Source%20code
+[3]: https://github.com/IBMPredictiveAnalytics/Cloudant/blob/master/Source%20Code/Cloudant.cfe
 [4]:https://cran.r-project.org/web/packages/plyr/
 [7]:https://developer.ibm.com/predictiveanalytics/downloads/#tab2
 [8]: https://developer.ibm.com/predictiveanalytics/downloads/
