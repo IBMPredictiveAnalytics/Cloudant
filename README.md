@@ -8,10 +8,11 @@ This node allows you to import data from a Cloudant database to be used in IBM S
 ---
 Requirements
 ----
-- IBM SPSS Modeler v16 or later
-- ‘R Essentials for SPSS Modeler’ plugin: [Download here][7]
+-  IBM SPSS Modeler v16 or later
+-  ‘R Essentials for SPSS Modeler’ plugin: [Download here][7]
 -  R 2.15.x or R 3.1
 -  A Bluemix account with Cloudant activated either as a service or as part of an application
+
 ---
 Installation
 ----
