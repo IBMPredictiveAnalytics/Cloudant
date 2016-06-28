@@ -1,5 +1,5 @@
 # Cloudant
-###Import data from a Cloudant database into SPPS Modeler
+###Import data from a Cloudant database into SPSS Modeler
 
 This node allows you to import data from a Cloudant database to be used in IBM SPSS Modeler.  You can retrieve a dump of the whole database, retrieve a document from its ID or perform a query using a preset view.  In order to use this node you must have a Bluemix account with the Cloudant service added.  By adding this service you will create “host” credentials that are needed by this node.  After adding the service in Bluemix you can access the Cloudant dashboard to create or update databases.    
 
